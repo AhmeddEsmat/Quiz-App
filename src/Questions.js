@@ -1,0 +1,92 @@
+export const Questions = [
+  {
+    id: 1,
+    question: "What is the capital of France?",
+    options: ["New York", "London", "Paris", "Dublin"],
+    correct: "Paris",
+  },
+  {
+    id: 2,
+    question: "Who is CEO of Tesla?",
+    options: ["Elon Musk", "Jeff Bezos", "Bill Gates", "Tony Stark"],
+    correct: "Elon Musk",
+  },
+  {
+    id: 3,
+    question: "The iPhone was created by which company?",
+    options: ["Apple", "Intel", "Amazon", "Microsoft"],
+    correct: "Apple",
+  },
+  {
+    id: 4,
+    question: "How many Harry Potter books are there?",
+    options: ["1", "4", "6", "7"],
+    correct: "7",
+  },
+  {
+    id: 5,
+    question: "What is the capital of Spain?",
+    options: ["Lisbon", "Berlin", "Madrid", "Dublin"],
+    correct: "Madrid",
+  },
+  {
+    id: 6,
+    question: "What is the capital of Russia?",
+    options: ["Moscow", "St. Petersburg", "Novosibirsk", "Yekaterinburg"],
+    correct: "Moscow",
+  },
+  {
+    id: 7,
+    question: "What is the capital of Poland?",
+    options: ["Warsaw", "Krakow", "Gdansk", "Poznan"],
+    correct: "Warsaw",
+  },
+  {
+    id: 8,
+    question: "What is the capital of Italy?",
+    options: ["Milan", "Rome", "Venice", "Florence"],
+    correct: "Rome",
+  },
+  {
+    id: 9,
+    question: "What is the capital of Germany?",
+    options: ["Munich", "Berlin", "Hamburg", "Frankfurt"],
+    correct: "Berlin",
+  },
+  {
+    id: 10,
+    question: "What is the capital of the United Kingdom?",
+    options: ["Manchester", "Birmingham", "Liverpool", "London"],
+    correct: "London",
+  },
+  {
+    id: 11,
+    question: "What is the capital of the United States?",
+    options: ["Washington D.C.", "New York", "Los Angeles", "Chicago"],
+    correct: "Washington D.C.",
+  },
+  {
+    id: 12,
+    question: "What is the capital of Canada?",
+    options: ["Toronto", "Vancouver", "Montreal", "Ottawa"],
+    correct: "Ottawa",
+  },
+  {
+    id: 13,
+    question: "What is the capital of Australia?",
+    options: ["Melbourne", "Sydney", "Brisbane", "Canberra"],
+    correct: "Canberra",
+  },
+  {
+    id: 14,
+    question: "What is the capital of Japan?",
+    options: ["Kyoto", "Osaka", "Tokyo", "Hiroshima"],
+    correct: "Tokyo",
+  },
+  {
+    id: 15,
+    question: "What is the capital of China?",
+    options: ["Shanghai", "Beijing", "Hong Kong", "Shenzhen"],
+    correct: "Beijing",
+  },
+];
